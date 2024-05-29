@@ -1,0 +1,12 @@
+.social img{
+    margin-left: 55px;
+    margin-top: 190px;
+}
+
+.social{
+    display: flex;
+    flex-direction: row;
+   justify-content: end;
+   margin-right: 35px;
+}
+

@@ -1,0 +1,22 @@
+.button {
+    display: flex;
+    margin-top: 20px;
+    border-top: solid;
+    border-top-color: #ffffff;
+    color: #080C71;
+}
+
+.button a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 388px;
+    height: 64px;
+    font-size: 30px;
+    font-family: "Merriweather", serif;
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-top: 45px;
+    text-decoration: none;
+    list-style: none;
+}
